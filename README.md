@@ -1,1 +1,1 @@
-# RocketSeat
+# RocketSeat - Aulas e Projetos
